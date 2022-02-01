@@ -1,0 +1,35 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..04d28be
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,3 @@
++# comment
++*.out
++
+diff --git a/README.txt b/README.txt
+index e69de29..143b7e6 100644
+--- a/README.txt
++++ b/README.txt
+@@ -0,0 +1,4 @@
++This file is README for GitBash
++Contents:
++* hello.txt
++
+diff --git a/aaa.txt b/aaa.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/bbb.txt b/bbb.txt
+new file mode 100644
+index 0000000..37a4b36
+--- /dev/null
++++ b/bbb.txt
+@@ -0,0 +1 @@
++This file is fetch command test.
+diff --git a/ccc.txt b/ccc.txt
+new file mode 100644
+index 0000000..e3fd426
+--- /dev/null
++++ b/ccc.txt
+@@ -0,0 +1 @@
++This file is pull command test.
